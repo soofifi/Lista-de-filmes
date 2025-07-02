@@ -1,3 +1,28 @@
 body{
-    color:rgb(232, 158, 255)
+    background-color: rgb(241, 214, 243);
+    color:rgb(232, 158, 255);
+    font-family: "Righteous", sans-serif;
+    margin: 10px;
+}
+
+header{
+    border-bottom: solid 10px rgb(201, 122, 240);
+    padding: 20px;
+    font-size: 40px;
+    color:rgb(209, 147, 218);
+}
+
+h1{
+    font-size: 32px;
+}
+
+p{
+    font-size: 20px;
+}
+
+section{
+    background-color: rgb(194, 71, 246);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
 }
